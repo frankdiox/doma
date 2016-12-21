@@ -121,9 +121,8 @@ a:after {
 	font-weight: 700;
 	letter-spacing: 3px;
 	@media(max-width: 980px) {
-  html {
-    font-size: 2em;
-}
+  p{font-size: 2em;}
+	} }
 
 #headerwrap h2 {
 	color: white;
@@ -131,9 +130,8 @@ a:after {
 	font-weight: 100;
 	letter-spacing: 2px;
 	@media(max-width: 980px) {
-  html {
-    font-size: 2em;
-}
+  p{ font-size: 2em; }
+	} } 
 
 /* Portfolio Wrap */
 #portfoliowrap {
