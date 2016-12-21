@@ -81,6 +81,9 @@ a:after {
     float: none;
     width: auto;
   }
+	#pagewrap {
+		font-size: 40%;
+	}
  #subtitle, #share, #slider, #sidebar{
     display:none;
   }
@@ -120,18 +123,14 @@ a:after {
 	font-size: 140px;
 	font-weight: 700;
 	letter-spacing: 3px;
-	@media(max-width: 980px) {
-  p{font-size: 2em;}
-	} }
+	}
 
 #headerwrap h2 {
 	color: white;
 	font-size: 50px;
 	font-weight: 100;
 	letter-spacing: 2px;
-	@media(max-width: 980px) {
-  p{ font-size: 2em; }
-	} } 
+	} 
 
 /* Portfolio Wrap */
 #portfoliowrap {
