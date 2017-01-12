@@ -77,7 +77,7 @@ a:after {
 }
 
 @media screen and (max-width: 1020px) {
-  #container, #header, #content, #footer {
+  #container, #header, #content, #footer, #headerwrap {
     float: none;
     width: auto;
   }
