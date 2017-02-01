@@ -80,7 +80,6 @@ a:after {
   #container, #header, #content, #footer, #headerwrap {
     float: none;
     width: auto;
-    font-size: 16px;
   }
  #subtitle, #share, #slider, #sidebar{
     display:none;
@@ -90,7 +89,7 @@ a:after {
 
 @media screen and (max-width: 500px) {
   h1,h2 {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
